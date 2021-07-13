@@ -2,7 +2,7 @@
 
 Video-app is a video calling app built using NodeJS, Socket.io, and Peerjs(WebRTC).
 
-Check out the live demo: 
+Check out the live demo: https://videoc-web-app.herokuapp.com/
 
 
 # How to run the project?
