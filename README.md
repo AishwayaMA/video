@@ -1,6 +1,6 @@
 # video
 
-This is a part of the Microsoft Engage 2021. Video-app is an app where two or more people can do video call. Technologies used are NodeJS, Express, WebRTC, Socket.io, Nodemon and Peerjs.
+This is a part of the Microsoft Engage 2021. Video-app is an app where two or more people can do video call. Technologies used are NodeJS, Express, WebRTC, Socket.io, Nodemon, uuid and Peerjs.
 
 The link to chatting is : https://github.com/AishwayaMA/chat
 
