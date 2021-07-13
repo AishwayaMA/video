@@ -1,8 +1,12 @@
 # video
 
-Video-app is a video calling app built using NodeJS, Socket.io, and Peerjs(WebRTC).
+This is a part of the Microsoft Engage 2021. Video-app is an app where two or more people can do video call. Technologies used are NodeJS, Express, WebRTC, Socket.io, Nodemon and Peerjs.
 
-Check out the live demo: https://videoc-web-app.herokuapp.com/
+The link to chatting is : https://github.com/AishwayaMA/chat
+
+# Deployment
+
+It has been deployed on Heroku  and the link is : https://videoc-web-app.herokuapp.com/
 
 
 # How to run the project?
