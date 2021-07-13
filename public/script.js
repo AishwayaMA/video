@@ -78,12 +78,7 @@ backBtn.addEventListener("click", () => {
     document.querySelector(".header__back").style.display = "none";
   });
   
-  showChat.addEventListener("click", () => {
-    document.querySelector(".main__right").style.display = "flex";
-    document.querySelector(".main__right").style.flex = "1";
-    document.querySelector(".main__left").style.display = "none";
-    document.querySelector(".header__back").style.display = "block";
-  });
+ 
   const inviteButton = document.querySelector("#inviteButton");
   const muteButton = document.querySelector("#muteButton");
   const stopVideo = document.querySelector("#stopVideo");
